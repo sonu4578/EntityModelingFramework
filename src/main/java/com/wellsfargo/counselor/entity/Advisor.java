@@ -32,6 +32,7 @@ public class Advisor {
 
     }
 
+    //Constructor to create a new Advisor object
     public Advisor(String firstName, String lastName, String address, String phone, String email) {
         this.firstName = firstName;
         this.lastName = lastName;
